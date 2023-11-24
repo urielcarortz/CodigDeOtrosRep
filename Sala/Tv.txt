@@ -1,3 +1,2 @@
-Mi primer documento creado en git bash
-Tercera linea de mensaje
 Saint seya por azteca 7
+Nuevo commit para la television de la sala
